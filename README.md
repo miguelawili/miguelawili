@@ -1,4 +1,4 @@
-# Miguel Awili 🍀
+# Miguel Awili
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FABD2F&center=true&vCenter=true&width=435&lines=SRE.+DevOps.+Software+Engineering.;Python.+GoLang.+Rust.;AWS" alt="banner">
 
