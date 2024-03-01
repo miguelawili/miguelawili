@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FABD2F&center=true&vCenter=true&width=435&lines=SRE.+DevOps.+Software+Engineering.;Python.+GoLang.+Rust.;AWS" alt="banner">
 
-I am a: 📋 Senior Service Engineer Specialist @ [Maya](https://www.maya.ph/)
+Senior Site Reliability Engineer @ [Maya](https://www.maya.ph/)
 
 #### 👉 About Me
 
